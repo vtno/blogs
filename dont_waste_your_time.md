@@ -35,7 +35,7 @@ It was crappy but it worked. I’ve built my first product.
 [My First Rails App](https://github.com/vtno/clothstore)
 
 ######Consequences
-Because of that first product I built, I got to work part-time with my senior who is working on a Rails project for government sector at his company. It is a pretty big project that I actually learn the best practices of how to create a “good” Rails app. After this project, I apply at one of the coolest tech company in town and they hired me.
+Because of that first product I built, I got to work part-time with my senior who is working on a Rails project for government sector at his company. It was a pretty big project that I actually learn the best practices of how to create a “good” Rails app. After this project, I applied to one of the coolest tech company in town and they hired me.
 
 If my goal was just to learn Rails, I would still be reading some tutorial off of the internet and be nowhere near I am today. It would take a lot more time and I could miss my chance of applying at my desired company.
 
