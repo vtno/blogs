@@ -41,4 +41,4 @@ If my goal was just to learn Rails, I would still be reading some tutorial off o
 
 #Don’t plan too much
 ######You’ll just end up doing nothing
-Planning is an essential part in making a great decision and achieve more result in less time. However, every great result is not going to be achieve if you don’t execute. Having a master plan that wil pave the way for your future means nothing if you don't start executing it.
+Planning is an essential part in making a great decision and achieve more result in less time. However, every great result is not going to be achieve if you don’t execute. Having a master plan that wil pave the way for your future means nothing if you don't start executing it. Have you ever talked to someone who always going through their plans...
