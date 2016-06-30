@@ -28,7 +28,7 @@ I have been learning Ruby on Rails framework for almost half a year by setting h
 
 Because of that mindset I’m not only able to learn the framework, I also get into my current job. I didn’t just try to learn Rails. Instead, I tried to be a developer and what developer does is creating a product for his customer. So I start by finding a chance to build an actual product. 
 
-Luckily, the startup company I applied for ask me to build a web application with Rails. I used my prior experience with other framework to literally hack my way through my first Rails app. I did everthing I could copying other people’s code. Find a specific tutorial for some of the functionalities. I even use logic from other language that there is a much better way to do it with Ruby. 
+Luckily, the startup company I applied for ask me to build a web application with Rails. I used my prior experience with other framework to literally hack my way through my first Rails app. I did everything I could copying other people’s code. Find a specific tutorial for some of the functionalities. I even use logic from other language that there is a much better way to do it with Ruby. 
 
 It was crappy but it worked. I’ve built my first product.
 
@@ -41,4 +41,11 @@ If my goal was just to learn Rails, I would still be reading some tutorial off o
 
 #Don’t plan too much
 ######You’ll just end up doing nothing
-Planning is an essential part in making a great decision and achieve more result in less time. However, every great result is not going to be achieve if you don’t execute. Having a master plan that wil pave the way for your future means nothing if you don't start executing it. Have you ever talked to someone who always going through their plans...
+Planning is an essential part in making a great decision and achieve more result in less time. During my college, I worked with different kinds of people. People from engineering school tends to plan for everything and I really mean __every freaking thing possible__. Even the smallest detail, they won't let it slip and might even spent a couple hours on finding fixed for that small issue.
+
+I love working meticulously however sometimes you just need to go with what you've got hope for the best. You just can't plan for every scenario. My current mindset on planning is not to go into much detail. I just set my goal, break it down and set which step I have to take. Plan for the worst and just go with it. I don't waste my time thinking of how many way my plan could to fail. Sometimes you just need to go for it. No one will wait for you to finish your plan. Time wasted in planning could make you miss your opportunity or your plan might become obsolete because you're taking too long.
+
+It's better to take the opportunity in front of you than come up with a plan on what you're going to do with it, only to find out that you just let it slipped.
+
+>“Life is what happens to you while you're busy making other plans.”
+― Allen Saunders
